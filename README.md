@@ -32,7 +32,6 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 Stats </h2>  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StoneCAU&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=StoneCAU)](https://git.io/streak-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seokwoo1999)](https://solved.ac/seokwoo1999/)
