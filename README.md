@@ -33,7 +33,7 @@ const developer = {
 
 ---
 
-## 🏆 Achievements
+## 💼 Experience
 
 | 기간 | 활동 | 성과 |
 |------|------|------|
@@ -43,7 +43,7 @@ const developer = {
 
 ---
 
-## 💼 Tech Stack
+## 🛠 Tech Stack
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
@@ -71,7 +71,7 @@ const developer = {
 ### 🎯 [Catch:y](https://github.com/Catch-y/Spring_BE) - AI 기반 놀거리 코스 추천 서비스
 **Backend Team Lead | 2025.01 - 현재**
 
-> UMC 데모데이 최우수상 수상 | 앱스토어 배포 준비 중
+> UMC 데모데이 **최우수상 수상** | 앱스토어 배포 준비 중
 
 **주요 성과**
 - 📊 **API 응답 시간 67% 개선**: CompletableFuture 활용한 병렬 처리로 4.85s → 1.59s 단축
@@ -110,7 +110,7 @@ const developer = {
 ### 🚗 [Voormie](https://github.com/Bumper-Car) - AI 운전 연수 서비스
 **Full Stack Developer | 2025.03 - 2025.06**
 
-> 캡스톤디자인 A+
+> 교내 **캡스톤디자인 A+**
 
 **주요 성과**
 - 🤖 **AI 모델 개발**: YOLOv8 + DeepSort 기반 차량 끼어들기 감지 시스템 구현
