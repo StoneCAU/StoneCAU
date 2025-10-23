@@ -17,7 +17,7 @@
 ```typescript
 const developer = {
     name: "홍석우 (Hong Seok Woo)",
-    role: "Backend Engineer"
+    role: "Backend Engineer",
     education: "중앙대학교 소프트웨어학부",
     philosophy: "실패에 주저하지 않으며, 새로운 도전을 통해 성장을 추구합니다.",
     focus: [
