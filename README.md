@@ -41,27 +41,17 @@
 **Backend Lead** | 2025.01 - 현재  
 UMC 데모데이 최우수상 수상
 
-- 주소 정규화 및 복합 인덱스로 지역 검색 성능 5.1배 개선 (525ms → 104ms)
-- NOT EXISTS 전환으로 방문 장소 필터링 30배 개선 (224ms → 7.3ms)
-- CompletableFuture 병렬 처리로 Google Places API 응답 77% 단축 (9.4s → 2.16s)
-
 `Java` `Spring Boot` `MySQL` `Redis` `QueryDSL` `AWS`
 
-### [WHIF](https://github.com/Shinhan-Click) - AI 캐릭터 채팅
+### [WHIF](https://github.com/Shinhan-Click) - AI 캐릭터 채팅 서비스
 **Full Stack** | 2025.07 - 2025.09  
 신한 해커톤 혁신상 수상
 
-- 프롬프트 탈옥 방어 로직 구현
-- Docker Compose 기반 CI/CD 구축
-
 `React` `TypeScript` `Spring` `MySQL` `Docker`
 
-### [Voormie](https://github.com/Bumper-Car) - AI 운전 연수
+### [Voormie](https://github.com/Bumper-Car) - AI 운전 연수 서비스
 **Full Stack** | 2025.03 - 2025.06  
 캡스톤디자인 A+
-
-- YOLOv8 + DeepSort 기반 끼어들기 감지
-- WebSocket 실시간 영상 전송 구현
 
 `Kotlin` `Python` `FastAPI` `YOLOv8`
 
